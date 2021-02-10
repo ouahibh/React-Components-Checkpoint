@@ -1,0 +1,21 @@
+.myAdress {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  height: 15rem;
+  flex-flow: column;
+  margin: 0 0 1rem 0;
+}
+h1 {
+  color: rgba(248, 72, 28, 0.801);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align: center;
+}
+h2 {
+  color: rgba(248, 138, 28, 0.801);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align: center;
+}

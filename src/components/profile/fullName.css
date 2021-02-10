@@ -1,0 +1,24 @@
+.myName {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  width: 100%;
+  height: 10rem;
+  border-bottom: solid 0.5rem rgb(224, 204, 89);
+}
+
+#name {
+  color: rgb(248, 197, 29);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  text-shadow: lemonchiffon;
+}
+.myName h1 {
+  color: rgb(224, 204, 89);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  text-shadow: lemonchiffon;
+}
